@@ -1,0 +1,5 @@
+﻿  main.cpp
+  sur_loader.cpp
+  Generating Code...
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+  bezier_curvature.vcxproj -> F:\lab\bezier\bezier_curvature_vs\x64\Release\bezier_curvature.exe
